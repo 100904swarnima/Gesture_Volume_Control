@@ -5,6 +5,8 @@
 <img width="1920" height="1080" alt="Screenshot 2025-07-18 012737" src="https://github.com/user-attachments/assets/315d918c-5500-49a7-9b25-de7537b8b40c" />
 
 ✅ Practical Uses of Gesture Controlled Volume Control
+
+
 1️⃣ Touchless Control
 You can change system volume without using keyboard or mouse.
 
